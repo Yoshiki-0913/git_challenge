@@ -1,2 +1,4 @@
+$ git log --graph --oneline --decorate --all
 * 67f0b32 (HEAD -> main) Secandcomit
 * 19223e9 firstcomit
+* 043fe1c (origin/main) first commit
